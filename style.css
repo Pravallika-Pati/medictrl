@@ -282,56 +282,6 @@ table {
 th, td {
   padding:2% 2%;
 }
-
-/* teams */
-.teams{
-  margin: auto;
-  padding: 8px 15px;
-}
-.teams h1{
-  color: #4883B0;
-  font-size: 40px;
-  text-align: center;
-}
-.teams h1::before{
-  content: url('Line1.png');
-  padding: 0% 5%;
-}
-.teams h1::after{
-  content: url('Line2.png');
-  padding: 0% 5%;
-}
-.cards-teams{
-  display: flex;
-  justify-content: space-between;
-  margin: auto;
-  padding: 3% 0%;
-  height: 70%;
-}
-.teams-col{
-  height: 90%;
-  width: 100%;
-  padding-top: 10px;
-}
-.teams-col .one{
-  height: 70%;
-  background-color: #ABC6DB;
-  width: 80%;
-  border-radius: 25px;
-  padding-top:15px ;
-  box-shadow: 0px 5px 5px #aaaaaa;
-  /* margin-right: 1%; */
-}
-.teams-col .two{
-  height: 90%;
-  width: 87%;
-  border-radius: 25px;
-  align-items: center;
-  text-align: center;
-  margin: 3% 6%;
-  background-color:#E5F4FF;
-}
-
 /* footer */
 .footer-container{
   height: 40%;
