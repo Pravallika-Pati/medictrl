@@ -55,7 +55,7 @@ body{
 }
 .left input:focus{
   border: 3px solid #4883B0;
-  border: none;
+  outline: none;
 }
 ::placeholder{
   color: #4883B0;
